@@ -1,0 +1,8 @@
+variavel = 'day' 
+
+print('hello world', variavel)
+print('conhecimento não se tira')
+if variavel=='estudar':
+    print('computador')
+else:
+    print('computação é essencial')
